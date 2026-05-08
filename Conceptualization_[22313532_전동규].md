@@ -12,7 +12,8 @@
 <div align="right">
   <strong>Student No:</strong> 22313532<br>
   <strong>Name:</strong> 전동규<br>
-  <strong>E-Mail:</strong> wjsehd134613@gmail.com
+  <strong>E-Mail:</strong> wjsehd134613@gmail.com<br>
+  <strong>GitHub repository:</strong> https://github.com/wjsehd/Posture-Guardian-Project
 </div>
 
 <br>
